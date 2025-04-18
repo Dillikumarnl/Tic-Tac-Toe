@@ -23,7 +23,7 @@ from this project all the packages were come with python 3 itself(eg. tkinter).
 ![image](https://github.com/user-attachments/assets/adfeaa1c-6818-4ce1-a71d-2e1e665e680f)
 
 ## License
-This project is licensed under the [GPL License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 
 
