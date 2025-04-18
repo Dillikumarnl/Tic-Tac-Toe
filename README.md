@@ -22,8 +22,8 @@ from this project all the packages were come with python 3 itself(eg. tkinter).
 ### Or Tie (:
 ![image](https://github.com/user-attachments/assets/adfeaa1c-6818-4ce1-a71d-2e1e665e680f)
 
-## Licence
-### This Project comes under the Open source access category. You can make changes on it, modify and whatever you can and you should treat as like me. 
+## License
+This project is licensed under the [GPL License](LICENSE).
 
 
 
