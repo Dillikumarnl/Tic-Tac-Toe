@@ -1,6 +1,6 @@
 ## Title(Tic Tac Toe) Descriptions
-### Tic-tac-toe is played by two players, taking turns marking a 3×3 matrix or grid with two types of different things. It is also known as the noughts and crosses game.
-### This game is called OXO, developed by A.S. Douglas around 1952 (Wikipedia link). It is one of the most commonly played games, often enjoyed in the sand with friends.
+ Tic-tac-toe is played by two players, taking turns marking a 3×3 matrix or grid with two types of different things. It is also known as the noughts and crosses game.
+ This game is called OXO, developed by A.S. Douglas around 1952 ([Wikipedia link](https://en.wikipedia.org/wiki/OXO_(video_game))). It is one of the most commonly played games, often enjoyed in the sand with friends.
 
 ## Installation's
 you may clone this project right to your local machine or you can download it here!
